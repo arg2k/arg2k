@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Argha Kole
 - 👀 I’m interested in Competitive Programming , Web-development...
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arghakole@gmail.com
 
